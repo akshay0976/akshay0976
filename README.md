@@ -13,7 +13,7 @@
 - 📫 How to reach me **akshay851204@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WkyhV-jf2RUr2rTT5A3NYQweqQx_M4G5/view?usp=sharing](https://drive.google.com/file/d/1WkyhV-jf2RUr2rTT5A3NYQweqQx_M4G5/view?usp=sharing)
-- My Protfolio [Visit](portfolio-dusky-six-14.vercel.app)
+- My Protfolio [Visit](https://portfolio-dusky-six-14.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
